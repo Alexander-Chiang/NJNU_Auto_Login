@@ -1,0 +1,10 @@
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\bin\Release\NJNU_Atuo_Login.exe.config
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\bin\Release\NJNU_Atuo_Login.exe
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\bin\Release\NJNU_Atuo_Login.pdb
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\obj\Release\NJNU_Atuo_Login.frmMain.resources
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\obj\Release\NJNU_Atuo_Login.Properties.Resources.resources
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\obj\Release\NJNU_Atuo_Login.csproj.GenerateResource.Cache
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\obj\Release\NJNU_Atuo_Login.exe
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\obj\Release\NJNU_Atuo_Login.pdb
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\NJNU_Atuo_Login\obj\Release\NJNU_Atuo_Login.csprojResolveAssemblyReference.cache

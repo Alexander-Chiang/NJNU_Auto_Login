@@ -1,0 +1,8 @@
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\bin\Release\AutoRun.exe.config
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\bin\Release\AutoRun.exe
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\bin\Release\AutoRun.pdb
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\obj\Release\AutoRun.Properties.Resources.resources
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\obj\Release\AutoRun.csproj.GenerateResource.Cache
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\obj\Release\AutoRun.exe
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\obj\Release\AutoRun.pdb
+C:\Users\Yayu.Jiang\documents\visual studio 2015\Projects\NJNU_Atuo_Login\AutoRun\obj\Release\AutoRun.csprojResolveAssemblyReference.cache
