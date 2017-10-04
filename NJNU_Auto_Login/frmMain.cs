@@ -180,6 +180,7 @@ namespace NJNU_Atuo_Login
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            //LoginHelper.Logout(cbNetType.Text);
             #region 检测输入信息是否完整
             if (tbUsername.Text.Trim() == String.Empty)
             {

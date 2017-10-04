@@ -224,6 +224,7 @@ namespace NJNU_Atuo_Login
 
         private static bool isdormNetType()
         {
+            //TODO 需要检查这个函数
             bool result = false;
             string Url = "http://223.2.10.172";
             HttpWebRequest req = (HttpWebRequest)WebRequest.Create(Url);
