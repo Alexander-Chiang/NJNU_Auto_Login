@@ -55,7 +55,8 @@ namespace NJNU_Atuo_Login
             string resStr = HttpPost(url, param);
             //JObject json = JObject.Parse(resStr);
             dormUserInfo useInfo = JsonConvert.DeserializeObject<dormUserInfo>(resStr);
-            useInfo.BI = JsonConvert.DeserializeObject<List<BallInfo>>(useInfo.ballInfo);
+            if(useInfo.ballInfo!=null)
+                useInfo.BI = JsonConvert.DeserializeObject<List<BallInfo>>(useInfo.ballInfo);
             return useInfo;
         }
 
@@ -242,8 +243,8 @@ namespace NJNU_Atuo_Login
                         using (StreamReader reader = new StreamReader(stream))
                         {
                             string ResStr = reader.ReadToEnd();
-                            //返回值包含http://223.2.10.172/eportal  表示是宿舍网络
-                            if ((int)response.StatusCode == 200 && ResStr.Contains("http://223.2.10.172/eportal/"))
+                            //返回值不包含http://portal.njnu.edu.cn
+                            if ((int)response.StatusCode == 200 && !ResStr.Contains("http://portal.njnu.edu.cn"))
                                 result = true;
                         }
                     }

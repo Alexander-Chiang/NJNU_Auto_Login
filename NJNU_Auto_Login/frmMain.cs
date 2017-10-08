@@ -288,7 +288,7 @@ namespace NJNU_Atuo_Login
                 LoginHelper.dormUserInfo userinfo = LoginHelper.getUserInfo();
                 message = userinfo.userName + "," + userinfo.welcomeTip + "  您已成功连接校园网！\r\n" +
                     "当前IP：" + userinfo.userIp +
-                    "\r\n在线设备：" + userinfo.BI[2].value + "台" ;
+                    "\r\n在线设备：" + ((userinfo.ballInfo!=null)?(userinfo.BI[2].value + "台"):"unknow") ;
             }
             else
             {
