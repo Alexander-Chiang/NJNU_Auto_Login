@@ -41,8 +41,8 @@ namespace NJNU_Atuo_Login
             ckbAutoLogin.Checked = userconfig.autoLogin;
             cbNetType.Items.Add("实验室网络");
             cbNetType.Items.Add("联通服务");
-            cbNetType.Items.Add("校园网服务");
             cbNetType.Items.Add("电信服务");
+            cbNetType.Items.Add("校园网服务");
             cbNetType.SelectedText = userconfig.netType;
 
             ckbAutoRun.Checked = userconfig.autoRun;

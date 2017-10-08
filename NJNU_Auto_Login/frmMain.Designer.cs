@@ -88,7 +88,6 @@
             this.关于ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.退出ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tIntvl = new System.Windows.Forms.Timer(this.components);
-            this.tReconnect = new System.Windows.Forms.Timer(this.components);
             this.tSecond = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.pnLogin.SuspendLayout();
@@ -846,7 +845,6 @@
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Label lblLoginMess;
         private System.Windows.Forms.Timer tIntvl;
-        private System.Windows.Forms.Timer tReconnect;
         private System.Windows.Forms.Label lblReconnMess;
         private System.Windows.Forms.Timer tSecond;
     }

@@ -7,3 +7,4 @@ C:\Users\Yayu.Jiang\Documents\Visual Studio 2015\Projects\NJNU_Auto_Login\NJNU_A
 C:\Users\Yayu.Jiang\Documents\Visual Studio 2015\Projects\NJNU_Auto_Login\NJNU_Auto_Login\obj\Release\NJNU_Auto_Login.csproj.GenerateResource.Cache
 C:\Users\Yayu.Jiang\Documents\Visual Studio 2015\Projects\NJNU_Auto_Login\NJNU_Auto_Login\obj\Release\NJNU_Auto_Login.exe
 C:\Users\Yayu.Jiang\Documents\Visual Studio 2015\Projects\NJNU_Auto_Login\NJNU_Auto_Login\obj\Release\NJNU_Auto_Login.pdb
+C:\Users\Yayu.Jiang\Documents\Visual Studio 2015\Projects\NJNU_Auto_Login\NJNU_Auto_Login\obj\Release\NJNU_Auto_Login.csprojResolveAssemblyReference.cache
