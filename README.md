@@ -1,9 +1,7 @@
 
 # Nanjing Normal University Network Authentication System（南京师范大学网络认证系统）
 
-## <a href="https://github.com/Alexander-Chiang/NJNU_Auto_Login/releases/latest">Download Page</a>
-
-<a href="https://github.com/Alexander-Chiang/NJNU_Auto_Login/releases/latest">Download Page</a>
+## <a href="https://github.com/Alexander-Chiang/NJNU_Auto_Login/releases/latest">Download</a>
 
 ## Main Form
 
